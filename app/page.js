@@ -35,10 +35,6 @@ export default function Home() {
           </p>
         </div>
 
-        <div className="border-l-4 border-emerald-700 bg-white/60 p-6 text-base leading-7 text-slate-700">
-          <p>个人求职站最小版本。</p>
-          <p className="mt-3">后续按页面逐步补充 About、项目与联系方式。</p>
-        </div>
       </section>
     </main>
   );
